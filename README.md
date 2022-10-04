@@ -1,4 +1,4 @@
-# Evergrow
+# Evergrow PDF Generator Frontend
 
 This is a Next.js project that includes:
 
